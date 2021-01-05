@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.exe
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.deps.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.runtimeconfig.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.runtimeconfig.dev.json
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.AssemblyInfo.cs
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.dll
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.pdb
+C:\Users\User\Desktop\SENAI\ATVIDADES\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.genruntimeconfig.cache
