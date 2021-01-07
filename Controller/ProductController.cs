@@ -15,7 +15,11 @@ namespace MVC_Console.Controller
         }
         public void Search(string termo){
             List<Product> lista = productModels.Ler().FindAll(x => x.Price == float.Parse(termo)); // aqui vai achar todos os itens da lista com o valor que o cliente buscar
-            productView.ShowInConsole(productModels.Ler); // vai exibir no View
+            productView.ShowInConsole(lista); // vai exibir no View
+        }
+
+        public void Cadastrar(){
+            productModels.Inserir(productView.CadastrarProduto()); // o Models vai inserir as informações no View as coisas que cadastrar
         }
     }
 }

@@ -9,8 +9,13 @@ namespace MVC_Console
     {
         static void Main(string[] args)
         {
-            ProductController prod = new ProductController();
-            prod.Listar();
+            Console.Clear();
+            UserController user = new UserController();
+            user.Cadastrar();
+            user.Listar();
+            ProductController product = new ProductController();
+            product.Cadastrar();
+            product.Listar();
         }
     }
 }
