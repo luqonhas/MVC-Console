@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using MVC_Console.Models;
 using MVC_Console.View;
@@ -11,12 +10,11 @@ namespace MVC_Console.Controller
         UserView userView = new UserView();
 
         public void Listar(){
-            List<User> lista = userModels.Ler();
-            userView.ShowInConsole(lista);
+            List<User> lista = userModels.Ler(); // essa nova lista vai ser igual ao metodo "Ler" do Models, que também é uma lista
+            userView.ShowInConsole(lista); // os dados da lista vão ser exibidos pelo View conforme aquele padrão de CWL que está no diretório View
         }
-
         public void Search(string termo){
-            List<User> lista = userModels.Ler().FindAll(x => x.CPF == int.Parse(termo)); // aqui vai achar todos os itens da lista com o valor que o cliente buscar
+            List<User> lista = userModels.Ler().FindAll(x => x.CPF == termo); // aqui vai achar todos os itens da lista com o valor que o cliente buscar
             userView.ShowInConsole(lista); // vai exibir no View
         }
 
